@@ -2,7 +2,7 @@
 def prime?(i)
   if n == 2
         return True
-    if n == 3
+    elsif n == 3
         return True
     if n % 2 == 0
         return False
